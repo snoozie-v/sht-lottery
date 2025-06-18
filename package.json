@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
+    "@esbuild-plugins/node-modules-polyfill": "^0.2.2",
     "@vechain/dapp-kit-react": "^2.0.2",
     "@vechain/sdk-core": "^1.2.0",
     "@vechain/sdk-network": "^1.2.0",
